@@ -1,0 +1,17 @@
+.section
+{
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-bottom:10px solid black ;
+    background-color:  #3A4042;
+    background-image: url(../../Assets/img/onepaisagem.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    height:600px ;
+    box-sizing: border-box;
+}
+
+.section .main-title
+{
+    margin-bottom: 90px;
+}

@@ -1,0 +1,36 @@
+.banner 
+{
+    background-image: url(../../Assets/img/onepaisagem.jpg);
+    height:800px ;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    border-bottom: 10px solid #000;
+    box-sizing: border-box;
+    
+}
+
+
+.banner .wrapper
+{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+
+}
+
+.banner .box 
+{
+    margin-bottom: 40px;
+    margin-top: 115px;
+    margin-left: 90px;
+    margin-right: 35px;
+}
+
+
+.banner .navigation
+
+
+{
+    display: flex;
+    justify-content:space-evenly;
+}

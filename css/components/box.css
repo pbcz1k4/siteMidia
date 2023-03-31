@@ -1,0 +1,15 @@
+    .box{
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 7px 7px 1px black;
+    text-align: center;
+    width: 50+0px;
+    padding: 44px 44px;
+    height: 90px;
+    border-radius: 5px;
+    
+}
+
+    .box title{
+    margin-bottom: 28px;
+}

@@ -1,0 +1,33 @@
+.Projects
+{
+    padding-top: 30px;
+    padding-bottom: 70px;
+    border-bottom:10px solid black ;
+    background-color:  #3A4042;
+ 
+}
+.wrap
+{
+    
+    align-items: center;
+    font-family:'Press Start 2P',sans-serif ;
+    color:black;
+    line-height: 2;
+    margin-left: 10px;
+}
+.wrap .subtitle
+{
+    font-size: 24px;
+
+}
+.Projeto
+{
+    display: flex;
+    align-items: center;
+    
+}
+.logoPj
+{
+
+    padding-left: 10px;
+}
