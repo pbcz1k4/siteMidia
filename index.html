@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="css/components/wrapper-skill.css">
     <link rel="stylesheet" href="css/components/projects.css">
     <link rel="stylesheet" href="css/components/Sobre.css">
+    <link rel="stylesheet" href="css/components/contatoSection.css">
 
 <body>
 
@@ -147,30 +148,24 @@
         </div>
     </section>
 
-    <section class="">
-        <h1 class=""> </h1>
+    <section class="contatoSection">
+        <h1 class="main-title -second">Contact-me </h1>
 
-        <div class="">
-            <img class="" src="" all="">
+        <div class="formulario">
+            <form method="POST" action="enviar.php">
+                <label class=" main-label" for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required><br><br>
 
-            <div class="">
-                <p>
-                </p>
-            </div>
+                <label class=" main-label" for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required><br><br>
 
+                <label class=" main-label" for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea><br><br>
 
+                <input type="submit" value="Enviar">
+            </form>
         </div>
     </section>
-
-
-
-
-
-
-
-
-
-
 
 </body>
 
