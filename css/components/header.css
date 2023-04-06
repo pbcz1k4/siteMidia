@@ -1,7 +1,10 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #3A4042;
-    border-bottom: 10px solid rgb(0, 0, 0);
-    padding: 10px 20px;
-  }
+  display: flex;
+  justify-content: space-between;
+  background-color: #3a4042;
+  border-bottom: 10px solid rgb(0, 0, 0);
+  padding: 10px 20px;
+}
+.img_logo {
+  border-radius: 90%;
+}
